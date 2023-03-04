@@ -1,2 +1,3 @@
 # Los-pensamientos-
-Siempre piensa en tu ideas 
+Siempre piensa en tus ideas 
+
